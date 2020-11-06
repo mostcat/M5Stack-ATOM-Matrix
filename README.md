@@ -15,6 +15,8 @@ NTP网络对时
 
 # BT Gravity KEYBORAD
 
+Video demo link: https://youtu.be/K-_DFAe21-0,非敏捷模式
+
 通过重力方向操作可发送4种控制指令
 
 显示屏有重力感应提示,点离中心越远代表发速命令越快
